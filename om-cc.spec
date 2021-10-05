@@ -11,6 +11,7 @@ Requires:	dnf-plugins-core
 Requires:	htmlscript >= 1.0.1
 BuildRequires:	make
 BuildArch:	noarch
+%rename om-control-center
 
 %description
 OpenMandriva Lx Control Center.
