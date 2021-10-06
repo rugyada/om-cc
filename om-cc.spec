@@ -5,7 +5,8 @@ Summary:	OpenMandriva Lx Control Center
 License:	GPLv2
 Group:		System/Configuration/Other
 URL:		https://github.com/rugyada/om-cc
-Source0:	%{name}-%version.tar.gz
+Source0:	%{name}/archive/%{version}/%{name}-%{version}.tar.gz
+Source1:	%{name}-%version.tar.gz
 Requires:	kdialog
 Requires:	dnf-plugins-core
 Requires:	htmlscript >= 1.0.1
