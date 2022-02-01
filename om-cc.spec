@@ -1,6 +1,6 @@
 Name:		om-cc
 Version:	1.0.1
-Release:	2
+Release:	1
 Summary:	OpenMandriva Lx Control Center
 License:	GPLv2
 Group:		System/Configuration/Other
